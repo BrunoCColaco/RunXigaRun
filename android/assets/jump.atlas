@@ -1,0 +1,26 @@
+jump.png
+size: 480, 960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jump1
+  rotate: false
+  xy: 0, 0
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+jump2
+  rotate: false
+  xy: 0, 320
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+jump3
+  rotate: false
+  xy: 0, 640
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
