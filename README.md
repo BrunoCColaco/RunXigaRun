@@ -5,5 +5,5 @@ Developed an exhilarating endless runner game designed to challenge players and 
 # Main Menu
 ![](https://github.com/BrunoCColaco/RunXigaRun/blob/main/gifs/jogo.gif)
 
-Gameplay
+# Gameplay
 ![](https://github.com/BrunoCColaco/RunXigaRun/blob/main/gifs/jogo.gif)
